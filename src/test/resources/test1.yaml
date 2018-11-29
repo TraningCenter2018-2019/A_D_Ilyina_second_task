@@ -1,0 +1,9 @@
+dog:
+  -name: Barkspawn
+  -birthDate: 19/08/2015
+  -weight: 20
+  -master:
+    -person:
+      -name: Pete
+      -birthDate: 05-01-2000
+      -weight: 70
